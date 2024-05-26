@@ -42,7 +42,7 @@ This package contains the following classes:
 
 
 * Polarization_Simulation_Package \
-This package is made to simulate skylight polarization images based essentialy on the [OpenSky simulator]((https://github.com/MoutenetA/OpenSky)). \
+This package is made to simulate skylight polarization images based essentialy on the [OpenSky simulator](https://github.com/MoutenetA/OpenSky). \
 It contains only functions.
 
 
